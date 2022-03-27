@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1a1d5a86-10c2-40b4-2e20-bb73c8853f6d
 resourcetype: Document
 title: esd801session1fullsetLeadershipdevelopmentfall2002.pdf
 uid: f6ddbfee-454c-ab2e-c639-16f9ad31c832

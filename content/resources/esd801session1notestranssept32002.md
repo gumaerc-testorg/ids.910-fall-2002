@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1a1d5a86-10c2-40b4-2e20-bb73c8853f6d
 resourcetype: Document
 title: ESD801session1notestranssept32002.pdf
 uid: 2cabae93-be9c-55dc-a18b-4e75ddcfa408

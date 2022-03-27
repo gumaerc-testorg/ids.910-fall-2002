@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1a1d5a86-10c2-40b4-2e20-bb73c8853f6d
 resourcetype: Document
 title: ESD801WeekendSession2NegotiationsandTeamsfall2002.pdf
 uid: d8474e7d-84fd-5038-825b-d489b45ce727
