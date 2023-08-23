@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -36,10 +37,10 @@ Transcripts
 Leadership Development for Incoming TPP Students
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/esd801session1fullsetleadershipdevelopmentfall2002))
+({{% resource_link f6ddbfee-454c-ab2e-c639-16f9ad31c832 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/esd801session1notestranssept32002))
+({{% resource_link 2cabae93-be9c-55dc-a18b-4e75ddcfa408 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,10 +52,10 @@ Leadership Development for Incoming TPP Students
 Leadership Development Offsite, Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/esd801weekendsession2negotiationsandteamsfall2002))
+({{% resource_link d8474e7d-84fd-5038-825b-d489b45ce727 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session2notestranssept292002))
+({{% resource_link 71ca9cf0-6249-a1c9-cad8-3c4f6a169f63 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,10 +67,10 @@ Leadership Development Offsite, Part 2
 Leadership Development Calibration
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/esd801session3crossculturalnegotiationsfall2002))
+({{% resource_link 9e9c54ff-bf5d-5359-126f-4fa1c9757cce "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/session3notestransnov152002))
+({{% resource_link a7b127bf-22be-5a60-c511-5a4980706f1c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
