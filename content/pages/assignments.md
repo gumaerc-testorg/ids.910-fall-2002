@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Two written assignments demonstrate mastery of course concepts.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
