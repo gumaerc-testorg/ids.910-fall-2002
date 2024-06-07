@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/ids-910-leadership-development-fall-2002/a5c2d6f72259fc70a50709e5438a9ce3_Photo4of26.jpg
+file_size: 84163
 file_type: image/jpeg
 image_metadata:
   caption: ''
