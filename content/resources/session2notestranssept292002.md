@@ -3,7 +3,7 @@ content_type: resource
 description: Transcript 2, Common Negotiations Situations Facing a Technology Policy
   Leader
 draft: false
-file: /courses/ids-910-leadership-development-fall-2002/71ca9cf06249a1c9cad83c4f6a169f63_session2notestranssept292002.pdf
+file: /ol-ocw-studio-app/courses/ids-910-leadership-development-fall-2002/71ca9cf06249a1c9cad83c4f6a169f63_session2notestranssept292002.pdf
 file_size: 63783
 file_type: application/pdf
 image_metadata:
