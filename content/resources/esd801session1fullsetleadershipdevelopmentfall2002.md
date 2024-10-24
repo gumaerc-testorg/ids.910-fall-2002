@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Leadership Development: Technology Policy Program'
-file: /courses/ids-910-leadership-development-fall-2002/f6ddbfee454cab2ec63916f9ad31c832_esd801session1fullsetLeadershipdevelopmentfall2002.pdf
+file: /ol-ocw-studio-app/courses/ids-910-leadership-development-fall-2002/f6ddbfee454cab2ec63916f9ad31c832_esd801session1fullsetLeadershipdevelopmentfall2002.pdf
 file_size: 287809
 file_type: application/pdf
 learning_resource_types:
