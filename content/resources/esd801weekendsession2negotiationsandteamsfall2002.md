@@ -2,7 +2,7 @@
 content_type: resource
 description: Technology Policy Program Session 2
 draft: false
-file: /courses/ids-910-leadership-development-fall-2002/d8474e7d84fd5038825bd489b45ce727_ESD801WeekendSession2NegotiationsandTeamsfall2002.pdf
+file: /ol-ocw-studio-app/courses/ids-910-leadership-development-fall-2002/d8474e7d84fd5038825bd489b45ce727_ESD801WeekendSession2NegotiationsandTeamsfall2002.pdf
 file_size: 230546
 file_type: application/pdf
 image_metadata:
