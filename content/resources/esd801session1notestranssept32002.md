@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lecture Notes: Transcript 1, Elements of a Shared Vision for a Technology
   Policy Leader'
-file: /courses/ids-910-leadership-development-fall-2002/2cabae93be9c55dca18b4e75ddcfa408_ESD801session1notestranssept32002.pdf
+file: /ol-ocw-studio-app/courses/ids-910-leadership-development-fall-2002/2cabae93be9c55dca18b4e75ddcfa408_ESD801session1notestranssept32002.pdf
 file_size: 74117
 file_type: application/pdf
 learning_resource_types:
